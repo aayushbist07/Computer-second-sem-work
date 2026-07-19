@@ -6,6 +6,7 @@ arrays.*/
 using namespace std;
 // template function for sorting array
 template <class T>
+
 void sortArray(T arr[],int size)
 {
     for(int i=0;i<size-1;i++){
